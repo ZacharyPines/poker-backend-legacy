@@ -1,2 +1,5 @@
 # poker-backend-legacy
 A Java-based poker backend featuring card and player classes to simulate a poker game. While it currently lacks built-in NPC behaviors, it includes a framework for designing AI players, offering flexibility for future enhancements.
+
+User Instructions:
+This section assumes a basic understanding of how to play Texas Hold’em. The program is designed to be intuitive and straightforward. As you progress through the game, instructions will appear on the screen to guide you step-by-step. There is one important quality of life feature worth highlighting. When prompted to make a decision, you can respond in multiple ways. In response to “(2) Bet,” you can choose it by entering “2,” “Bet,” or even “I’d like to bet, please.” For options that require an input value, such as betting or raising, simply enter an amount within your bank limit. If the input is invalid, the program will tell you. Beyond this, the interface functions as expected: read the prompts and respond accordingly. Enjoy!
